@@ -1,4 +1,5 @@
 Test file
 TEst1
 Test2
+Child Test
 Master test
